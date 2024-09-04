@@ -211,6 +211,18 @@ h1 {
 
 #contactform {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 50px;
-  padding: 50px;
+  font-size: 25px;
+  padding: 20px;
+  text-align: center;
+}
+
+input {
+  padding: 15px;
+  border: 2px solid black;
+  border-radius: 4px;
+  background-color: #f3d0d7;
+}
+
+input[type=submit] {
+  background-color: white;
 }
