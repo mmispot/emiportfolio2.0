@@ -129,6 +129,22 @@ footer {
   text-align: center;
 }
 
+#blogrow #blogcolumn {
+  width: 75%;
+}
+
+#blogpostheader {
+  color:#5a4f4f;
+}
+
+#blogposts {
+  text-align: left;
+  margin-left: 200px;
+  border: 2px solid #5a4f4f;
+  background-color:#d8d8d8;
+  color:#5a4f4f;
+}
+
 .skillsList {
   font-family: Helvetica;
 }
